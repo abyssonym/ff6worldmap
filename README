@@ -1,0 +1,6 @@
+This program is a proof-of-concept demo that shows world map randomization for FF6. Maybe this will be of use to someone.
+
+INSTRUCTIONS:
+    Run "ff6worldmap.exe" or "demo.py". Input the filename for your FF3 US rom (make sure it is in the same directory as the program, and include the file extension in the file name). Input a seed, or leave this option blank to choose one at random.
+
+    The map generation algorithm will usually take around 2-3 minutes to complete on a decent CPU. If it stalls for too long without making progress, try running the program again with a different seed.
